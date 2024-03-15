@@ -1,0 +1,4 @@
+0 levrek
+1 hamsi
+2 alabalık
+3 çupra
